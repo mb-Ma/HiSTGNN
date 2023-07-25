@@ -1,0 +1,1 @@
+python main.py --in_dim 1 --epochs 100 --layers 2 --data data/wfd_Israel --data_name Israel --save ./save/Israel/ --gcn_depth 2 --num_var 4 --var_nodes 4 --stat_nodes 6 --var_node_dim 5 --stat_node_dim 10 --seq_in_len 48 --seq_out_len 24 --batch_size 32 --tanhalpha 2
